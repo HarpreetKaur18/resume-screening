@@ -41,7 +41,8 @@ A full-stack project that uses Natural Language Processing (NLP) to extract skil
 
 **Clone the repository**
 
-git clone https://github.com/your-username/resume-analyzer.git
+git clone [https://github.com/your-username/resume-analyzer.git](https://github.com/HarpreetKaur18/resume-screening)
+
 cd resume-analyzer
 
 ---
