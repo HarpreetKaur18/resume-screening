@@ -1,6 +1,12 @@
-# Resume Analyzer 📝 - AI-Powered Resume Screening
+# Resume Screening System 📝 - AI-Powered Resume Analyzer
 
 A full-stack project that uses Natural Language Processing (NLP) to extract skills from resumes, match them with a job description, calculate a match score, and generate smart recommendations.
+
+---
+
+## Live Project:  
+## 🌐 Frontend: [https://resume-screening-orpin.vercel.app/](https://resume-screening-orpin.vercel.app/)  
+## ⚙️ Backend API: [https://resume-screening-b2b6.onrender.com/](https://resume-screening-b2b6.onrender.com/)
 
 ---
 
@@ -32,7 +38,6 @@ A full-stack project that uses Natural Language Processing (NLP) to extract skil
 
 - **Frontend:** React.js, Tailwind CSS, Recharts
 - **Backend:** FastAPI (Python), pdfplumber, pytesseract, spaCy NLP
-- **Database:** None (analyzes on-the-fly, no storage)
 - **Deployment:** Vercel (frontend), Render (backend)
 
 ---
@@ -41,7 +46,7 @@ A full-stack project that uses Natural Language Processing (NLP) to extract skil
 
 **Clone the repository**
 
-git clone [https://github.com/your-username/resume-analyzer.git](https://github.com/HarpreetKaur18/resume-screening)
+git clone https://github.com/HarpreetKaur18/resume-screening
 
 cd resume-analyzer
 
@@ -73,6 +78,12 @@ npm run dev
 
 ## 📸 Screenshots
 
+<img width="960" alt="Resume Screening System" src="https://github.com/user-attachments/assets/98477d2c-b052-448a-a2fc-95cf60310b2e" />
+
+
+<img width="958" alt="Resume Analysis" src="https://github.com/user-attachments/assets/bfb97859-52e8-46b6-8c13-e98df30f0aed" />
+
+
 ---
 
 ## 🙋‍♀️ Made By
@@ -88,3 +99,5 @@ npm run dev
 ## 📄 License
 
 This project is licensed under the MIT License.
+
+# 🎀 Let's Analyze, Match, and Slay the Job Hunt!
